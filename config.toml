@@ -1,0 +1,4 @@
+baseURL = "https://mckeefrazior.com/"
+languageCode = "en-us"
+title = "Mckee Frazior"
+theme = "ananke"
