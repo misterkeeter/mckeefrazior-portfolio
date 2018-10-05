@@ -9,3 +9,5 @@ fields:
 - type: text
   name: description
   label: Description
+pages:
+- maybe-stuff.md
